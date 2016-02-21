@@ -1,7 +1,7 @@
 {
   "name": "grunt-ttf2woff2",
   "description": "Converts a TTF font to a WOFF2 font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/jmalonzo/grunt-ttf2woff2",
   "author": {
     "name": "Jan Alonzo",
